@@ -1,8 +1,4 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/26p5n37dk6b99j43nv7j"
-#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us@SD" tvg-logo="https://i.imgur.com/66avgdk.png" group-title="Animals",AKC TV Meet The Breeds
-https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
-#EXTINF:-1 tvg-id="AKCTVPuppies.us@SD" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Animals",AKC TV Puppies 24/7
-https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="ADNTVPlus.fr@SD" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="Animation",ADN TV+ (720p)
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 #EXTINF:-1 tvg-id="AniOne.hk@SD" tvg-logo="https://www.medialink.com.hk/img/anione/AOYC1.png" group-title="Animation",Ani-Blast (720p)
